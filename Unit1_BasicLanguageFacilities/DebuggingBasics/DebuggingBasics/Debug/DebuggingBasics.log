@@ -1,0 +1,2 @@
+﻿  DebuggingBasics.cpp
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit1_BasicLanguageFacilities\DebuggingBasics\DebuggingBasics\DebuggingBasics.cpp(13,8): error C2143: syntax error: missing ';' before 'std::cout'
