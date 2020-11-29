@@ -14,14 +14,17 @@ public:
 	Car(float amount);
 	Car(float amount, int passengers);
 	Car(const Car & otherCar);
+	Car(Car&& otherCar);
 	void FillFuel(float amount);
 	void Accelerate();
 	void Brake();
 	void AddPassengers(int passengers);
 	void Dashboard() const;
 	static void ShowCount();
+	int getFuel() const;
+	int getPassengers() const;
 	void changeIntPtr(int newVal);
-	int getIntPtr();
+	int getIntPtr() const;
 
 	void AddPassengers(float passengers) = delete;
 };
