@@ -1,0 +1,7 @@
+﻿  FeatureTestMacro.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\FeatureTestMacro\FeatureTestMacro\FeatureTestMacro.cpp(6,23): error C2039: 'filesystem': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\iostream(15): message : see declaration of 'std'
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\FeatureTestMacro\FeatureTestMacro\FeatureTestMacro.cpp(6,33): error C2878: 'filesystem': a namespace or class of this name does not exist
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\FeatureTestMacro\FeatureTestMacro\FeatureTestMacro.cpp(14,10): error C2653: 'fs': is not a class or namespace name
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\FeatureTestMacro\FeatureTestMacro\FeatureTestMacro.cpp(14,6): error C2065: 'path': undeclared identifier

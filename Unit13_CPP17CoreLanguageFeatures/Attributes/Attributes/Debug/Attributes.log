@@ -1,0 +1,10 @@
+﻿  Attributes.cpp
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(32,2): error C4996: 'Test': This class is replaced by NewTest class
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(22): message : see declaration of 'Test'
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(33,19): error C4996: 'A': DO NOT USE THIS NAMESPACE!!!
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(26): message : see declaration of 'A'
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(34,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(35,2): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(31,1): error C4996: 'CreateIntArray': Use the new version instead - CreateArray
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(4): message : see declaration of 'CreateIntArray'
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit13_CPP17CoreLanguageFeatures\Attributes\Attributes\Attributes.cpp(32,7): warning C4101: 't': unreferenced local variable
