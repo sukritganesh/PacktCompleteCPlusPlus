@@ -1,0 +1,8 @@
+﻿  ParallelSTLAlgorithms.cpp
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit15_CPP17STL\ParallelSTLAlgorithms\ParallelSTLAlgorithms\ParallelSTLAlgorithms.cpp(33,25): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 364 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ParallelSTLAlgorithms.vcxproj -> C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit15_CPP17STL\ParallelSTLAlgorithms\x64\Release\ParallelSTLAlgorithms.exe

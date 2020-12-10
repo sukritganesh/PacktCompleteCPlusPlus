@@ -1,0 +1,7 @@
+﻿  IfConstexpr.cpp
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit14_CPP17TemplateFeatures\IfConstexpr\IfConstexpr\IfConstexpr.cpp(7,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit14_CPP17TemplateFeatures\IfConstexpr\IfConstexpr\IfConstexpr.cpp(10,7): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit14_CPP17TemplateFeatures\IfConstexpr\IfConstexpr\IfConstexpr.cpp(23,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit14_CPP17TemplateFeatures\IfConstexpr\IfConstexpr\IfConstexpr.cpp(32,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit14_CPP17TemplateFeatures\IfConstexpr\IfConstexpr\IfConstexpr.cpp(35,7): warning C4984: 'if constexpr' is a C++17 language extension
+  IfConstexpr.vcxproj -> C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit14_CPP17TemplateFeatures\IfConstexpr\x64\Debug\IfConstexpr.exe

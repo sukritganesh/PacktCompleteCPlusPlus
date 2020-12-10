@@ -1,0 +1,7 @@
+﻿  ParallelSTLAlgorithms.cpp
+C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit15_CPP17STL\ParallelSTLAlgorithms\ParallelSTLAlgorithms\ParallelSTLAlgorithms.cpp(33,25): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ParallelSTLAlgorithms.vcxproj -> C:\Users\Sukrit Ganesh\Documents\LearningProgramming\CPlusPlus_\PacktCompleteCPlusPlus\Unit15_CPP17STL\ParallelSTLAlgorithms\Release\ParallelSTLAlgorithms.exe
